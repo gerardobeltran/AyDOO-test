@@ -1,7 +1,7 @@
   #include <stdio.h>
 int main(int argc, char const *argv[])
 {
-    int n; 
+    int n;   
     int r, contador=0;
     scanf ("%d", &n);
     
