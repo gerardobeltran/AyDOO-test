@@ -24,5 +24,6 @@ Corrigiendo y Calculando
 Jugando al gato
 Matriz Transpuesta
 Cuadro Mágico (OOI)
-
+MoverGato
+Gato
 
