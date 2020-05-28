@@ -64,8 +64,8 @@ int main(int argc, char const *argv[])
     char cuadro[N][50];
      
     for (i=0; i< N; i++ ){
-      getchar();
-      scanf("%[^\n]", nombre[i]);
+     // getchar();
+      scanf("%*c%[^\n]%*c", nombre[i]);
       //getchar();
       scanf("%f", &calif[i]);
     

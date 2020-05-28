@@ -13,6 +13,9 @@ Ciclos
     CR Angry Birds
     Al revés 2.0
     Decodificando textos
+    Aparición de caracteres en subcadenas
+    No es lo mismo
+
 arreglos de cadenas
     Cuadro de Honor
     Encuesta de salud
