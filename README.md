@@ -15,6 +15,7 @@ Ciclos
     Decodificando textos
     Aparición de caracteres en subcadenas
     No es lo mismo
+    Verificar si un número es capicúa
 
 arreglos de cadenas
     Cuadro de Honor
